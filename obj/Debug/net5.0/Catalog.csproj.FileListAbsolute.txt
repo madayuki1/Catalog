@@ -31,3 +31,17 @@ D:\CodingStuff\SE\Dotnet\Projects\Catalog\obj\Debug\net5.0\refint\Catalog.dll
 D:\CodingStuff\SE\Dotnet\Projects\Catalog\obj\Debug\net5.0\Catalog.pdb
 D:\CodingStuff\SE\Dotnet\Projects\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
 D:\CodingStuff\SE\Dotnet\Projects\Catalog\obj\Debug\net5.0\ref\Catalog.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\DnsClient.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\SharpCompress.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\Snappier.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\ZstdSharp.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\CodingStuff\SE\Dotnet\Projects\Catalog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
